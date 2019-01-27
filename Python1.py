@@ -3,3 +3,7 @@ print
 raw_input
 input
 sdtout
+strings
+tuples
+dictionary
+list

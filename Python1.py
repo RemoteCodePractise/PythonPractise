@@ -7,3 +7,4 @@ strings
 tuples
 dictionary
 list
+Advanced features
